@@ -1,0 +1,38 @@
+_repo: Het-Nieuwe-Leven--13--La-Vita-Nuova-_28029
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suchtelen, Nico van
+    aliases:
+    - Van Suchtelen, Nico
+    - Suchtelen, Nicolaas Johannes van
+    birthdate: 1878
+    deathdate: 1949
+    gutenberg_agent_id: '33087'
+    url: http://www.gutenberg.org/2009/agents/33087
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_issued: '2009-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28029'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian literature -- Translations into Dutch'
+- !lcc 'PQ'
+title: Het Nieuwe Leven (La Vita Nuova)
+url: http://www.gutenberg.org/ebooks/28029
