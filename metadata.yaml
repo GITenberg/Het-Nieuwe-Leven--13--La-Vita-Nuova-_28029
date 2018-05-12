@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28029#Het-Nieuwe-Leven--13--La-Vita-Nuova-
 gutenberg_issued: '2009-02-09'
 gutenberg_type: Text
 identifiers:
